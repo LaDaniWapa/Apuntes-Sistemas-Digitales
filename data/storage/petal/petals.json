@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Asri-enhance",
+		"displayName": "Asri Theme Enhancer",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-plugin-math-enhance",
+		"displayName": "siyuan-plugin-math-enhance",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "webview",
+		"displayName": "Web Page View",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "GIT-SYNC-PLUGIN",
+		"displayName": "GIT SYNC PLUGIN",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	}
+]

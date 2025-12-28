@@ -1,0 +1,19 @@
+{
+    "light": {
+        "followSysAccentColor": false,
+        "followCoverImgColor": true,
+        "chroma": "1",
+        "userCustomColor": "#813d9c",
+        "presetPalette": ""
+    },
+    "dark": {
+        "followSysAccentColor": false,
+        "followCoverImgColor": false,
+        "chroma": "1",
+        "userCustomColor": "#3478f6",
+        "presetPalette": ""
+    },
+    "features": {
+        "tfp": "luminous"
+    }
+}

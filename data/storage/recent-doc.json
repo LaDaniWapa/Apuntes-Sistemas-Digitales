@@ -1,0 +1,90 @@
+[
+  {
+    "rootID": "20251226103426-kuaea3e",
+    "icon": "",
+    "title": "Tema 1: Represencatión de la información",
+    "viewedAt": 1766949371,
+    "closedAt": 1766949372,
+    "openAt": 1766949250
+  },
+  {
+    "rootID": "20251226104247-7kunn8f",
+    "icon": "",
+    "title": "Tema 2: Álgebra booleana y puertas lógicas",
+    "viewedAt": 1766949369,
+    "closedAt": 1766949371,
+    "openAt": 1766949369
+  },
+  {
+    "rootID": "20251226105547-j68dj17",
+    "icon": "",
+    "title": "Tema 11: Símplez. Modelo Procesal",
+    "viewedAt": 1766949334,
+    "closedAt": 0,
+    "openAt": 1766949334
+  },
+  {
+    "rootID": "20251226104356-n9cee52",
+    "icon": "",
+    "title": "Tema 4: Circuitos combinacionales basicos",
+    "viewedAt": 1766948994,
+    "closedAt": 1766948994,
+    "openAt": 1766948994
+  },
+  {
+    "rootID": "20251226104439-dsj6w6g",
+    "icon": "",
+    "title": "Tema 7: Circuitos secuenciales básicos",
+    "viewedAt": 1766948994,
+    "closedAt": 1766948994,
+    "openAt": 1766939691
+  },
+  {
+    "rootID": "20251226105356-9fv5bbo",
+    "icon": "",
+    "title": "Tema 9: Símplez. Modelo funcional",
+    "viewedAt": 1766948993,
+    "closedAt": 1766948993,
+    "openAt": 1766948311
+  },
+  {
+    "rootID": "20251226105355-toe46ke",
+    "icon": "",
+    "title": "Tema 8: Símplez. Modelo estructural",
+    "viewedAt": 1766948993,
+    "closedAt": 1766948994,
+    "openAt": 1766948548
+  },
+  {
+    "rootID": "20251226105357-kgytlcg",
+    "icon": "",
+    "title": "Tema 10: Símplez. Modelo estructural extendido",
+    "viewedAt": 1766945778,
+    "closedAt": 1766948992,
+    "openAt": 1766945778
+  },
+  {
+    "rootID": "20251226104433-u4rbjs1",
+    "icon": "",
+    "title": "Tema 6: Diseño de circuitos secuenciales",
+    "viewedAt": 1766934806,
+    "closedAt": 0,
+    "openAt": 1766934806
+  },
+  {
+    "rootID": "20251226104415-hctjpqu",
+    "icon": "",
+    "title": "Tema 5: Circuitos aritmético-lógicos",
+    "viewedAt": 1766931697,
+    "closedAt": 0,
+    "openAt": 1766931697
+  },
+  {
+    "rootID": "20251226104316-6aobzkp",
+    "icon": "",
+    "title": "Tema 3: Diseño de circuitos combinacionales",
+    "viewedAt": 1766747165,
+    "closedAt": 1766749419,
+    "openAt": 1766747165
+  }
+]
