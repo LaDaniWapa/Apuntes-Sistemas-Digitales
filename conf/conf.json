@@ -38,7 +38,12 @@
     "themeJS": true,
     "closeButtonBehavior": 0,
     "hideStatusBar": false,
-    "statusBar": null
+    "statusBar": {
+      "msgTaskDatabaseIndexCommitDisabled": false,
+      "msgTaskHistoryDatabaseIndexCommitDisabled": false,
+      "msgTaskAssetDatabaseIndexCommitDisabled": false,
+      "msgTaskHistoryGenerateFileDisabled": false
+    }
   },
   "langs": [
     {
@@ -278,7 +283,7 @@
               ],
               "direction": "tb",
               "instance": "Layout",
-              "size": "426px",
+              "size": "239px",
               "type": "left"
             },
             {
@@ -286,8 +291,125 @@
                 {
                   "children": [
                     {
-                      "children": {},
-                      "instance": "Tab"
+                      "activeTime": "1766960072687",
+                      "children": {
+                        "action": "cb-get-all",
+                        "blockId": "20251228180722-4f1en31",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20251226093425-ajb9zoz",
+                        "rootId": "20251226105355-toe46ke"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Tema 8: Símplez. Modelo estructural"
+                    },
+                    {
+                      "activeTime": "1766960088200",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20251226105356-9fv5bbo",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20251226093425-ajb9zoz",
+                        "rootId": "20251226105356-9fv5bbo"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Tema 9: Símplez. Modelo funcional"
+                    },
+                    {
+                      "activeTime": "1766960093228",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20251226105357-kgytlcg",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20251226093425-ajb9zoz",
+                        "rootId": "20251226105357-kgytlcg"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Tema 10: Símplez. Modelo estructural extendido"
+                    },
+                    {
+                      "activeTime": "1766960354243",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20251226105547-j68dj17",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20251226093425-ajb9zoz",
+                        "rootId": "20251226105547-j68dj17"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Tema 11: Símplez. Modelo Procesal"
+                    },
+                    {
+                      "activeTime": "1766960356240",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20251226103426-kuaea3e",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20251226093425-ajb9zoz",
+                        "rootId": "20251226103426-kuaea3e"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Tema 01: Represencatión de la información"
+                    },
+                    {
+                      "activeTime": "1766960363358",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20251226104247-7kunn8f",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20251226093425-ajb9zoz",
+                        "rootId": "20251226104247-7kunn8f"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Tema 02: Álgebra booleana y puertas lógicas"
+                    },
+                    {
+                      "activeTime": "1766960369906",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20251226104316-6aobzkp",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20251226093425-ajb9zoz",
+                        "rootId": "20251226104316-6aobzkp"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Tema 03: Diseño de circuitos combinacionales"
+                    },
+                    {
+                      "active": true,
+                      "activeTime": "1766961460357",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20251226104415-hctjpqu",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20251226093425-ajb9zoz",
+                        "rootId": "20251226104415-hctjpqu"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Tema 5: Circuitos aritmético-lógicos"
                     }
                   ],
                   "height": "",
@@ -358,7 +480,7 @@
             "show": true,
             "size": {
               "height": 0,
-              "width": 426
+              "width": 239
             },
             "title": "Doc Tree",
             "type": "file"
@@ -1267,11 +1389,11 @@
   "stat": {
     "treeCount": 11,
     "cTreeCount": 100,
-    "blockCount": 684,
+    "blockCount": 946,
     "cBlockCount": 5000,
-    "dataSize": 2707242,
+    "dataSize": 5466062,
     "cDataSize": 104857600,
-    "assetsSize": 117218,
+    "assetsSize": 1891463,
     "cAssetsSize": 104857600
   },
   "api": {

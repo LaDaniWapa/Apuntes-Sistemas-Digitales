@@ -20,6 +20,10 @@
   "local-emojis": {
     "currentTab": "emoji"
   },
+  "local-exportimg": {
+    "keepFold": false,
+    "watermark": false
+  },
   "local-fileposition": {
     "20251226103426-kuaea3e": {
       "endId": "20251226113014-qebva1b",
@@ -32,11 +36,11 @@
     },
     "20251226104247-7kunn8f": {
       "endId": "20251226105023-y9tdppv",
-      "focusEnd": 15,
-      "focusId": "20251226115233-qzjixde",
-      "focusStart": 15,
+      "focusEnd": 71,
+      "focusId": "20251226115923-k1heuyr",
+      "focusStart": 71,
       "rootId": "20251226104247-7kunn8f",
-      "scrollTop": 0,
+      "scrollTop": 10,
       "startId": "20251226094247-knqhjrg"
     },
     "20251226104316-6aobzkp": {
@@ -112,7 +116,7 @@
       "focusId": "20251228200856-pc0haco",
       "focusStart": 92,
       "rootId": "20251226105547-j68dj17",
-      "scrollTop": 0,
+      "scrollTop": 1172,
       "startId": "20251226095547-9irf64a"
     },
     "20251226122127-haaystb": {
@@ -150,9 +154,17 @@
     {
       "notebookId": "20251226093425-ajb9zoz",
       "openPaths": [
-        "/20251226103426-kuaea3e/20251228201053-6qd9jyx.sy"
+        "/20251226103426-kuaea3e.sy"
       ]
     }
+  ],
+  "local-fontstyles": [
+    "color​var(--b3-font-color13)",
+    "style4​undefined",
+    "backgroundColor​var(--b3-font-background11)",
+    "backgroundColor​var(--b3-font-background10)",
+    "backgroundColor​var(--b3-font-background9)",
+    "backgroundColor​var(--b3-font-background12)"
   ],
   "local-plugin-docks": {
     "siyuan-experience-enhancer": {
