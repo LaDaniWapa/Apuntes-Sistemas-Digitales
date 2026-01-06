@@ -1,6 +1,12 @@
 {
   "local-codelang": "",
   "local-dialogposition": {
+    "dialog-changelog": {
+      "height": 664,
+      "left": 625,
+      "top": 115,
+      "width": 768
+    },
     "dialog-notebookconf": {
       "height": 486,
       "left": 185,
@@ -44,62 +50,62 @@
       "startId": "20251226094247-knqhjrg"
     },
     "20251226104316-6aobzkp": {
-      "endId": "20251226121522-a18h1ma",
-      "focusEnd": 0,
-      "focusId": "20251226105107-1rqrblo",
-      "focusStart": 0,
+      "endId": "20251228223744-1xxzvvq",
+      "focusEnd": 23,
+      "focusId": "20251228223744-9m3qcyv",
+      "focusStart": 23,
       "rootId": "20251226104316-6aobzkp",
-      "scrollTop": 0,
-      "startId": "20251226105107-1rqrblo"
+      "scrollTop": 96,
+      "startId": "20251228223744-9k87kg9"
     },
     "20251226104356-n9cee52": {
-      "endId": "20251226122636-u6969gb",
-      "focusEnd": 0,
-      "focusId": "20251226122754-lvekj9w",
-      "focusStart": 0,
+      "endId": "20251228223745-l8c5uy0",
+      "focusEnd": 4,
+      "focusId": "20251228223745-47wlnh7",
+      "focusStart": 4,
       "rootId": "20251226104356-n9cee52",
-      "scrollTop": 0,
-      "startId": "20251226094356-3fs59ul"
+      "scrollTop": 2933,
+      "startId": "20251228223745-2dvhi5v"
     },
     "20251226104415-hctjpqu": {
-      "endId": "20251228145400-3kku5h9",
+      "endId": "20251228223745-2a6cvyz",
       "rootId": "20251226104415-hctjpqu",
       "scrollTop": 0,
-      "startId": "20251226094415-wyr527h"
+      "startId": "20251228223745-di1eum1"
     },
     "20251226104433-u4rbjs1": {
-      "endId": "20251226125543-gxq6juu",
+      "endId": "20251228223745-1xtwhzf",
+      "focusEnd": 0,
+      "focusId": "20251228223745-tpq4qm1",
+      "focusStart": 0,
       "rootId": "20251226104433-u4rbjs1",
-      "scrollTop": 0,
-      "startId": "20251226094433-i5n64h9"
+      "scrollTop": 502,
+      "startId": "20251228223745-tpq4qm1"
     },
     "20251226104439-dsj6w6g": {
-      "endId": "20251228175816-8kfg1z0",
-      "focusEnd": 24,
-      "focusId": "20251228175816-8kfg1z0",
-      "focusStart": 24,
+      "endId": "20260105075034-kz5xg7h",
+      "focusEnd": 0,
+      "focusId": "20260105074955-f9cjnv2",
+      "focusStart": 0,
       "rootId": "20251226104439-dsj6w6g",
-      "scrollTop": 719,
-      "startId": "20251226105253-vdsuepq"
+      "scrollTop": 4,
+      "startId": "20251228223745-ud5ugdk"
     },
     "20251226105355-toe46ke": {
-      "endId": "20251228180827-t57nwzb",
-      "focusEnd": 12,
-      "focusId": "20251226095355-8a43uar",
-      "focusStart": 12,
+      "endId": "20251228223745-suit38b",
+      "focusEnd": 0,
+      "focusId": "20251228223745-mzffj7g",
+      "focusStart": 0,
       "rootId": "20251226105355-toe46ke",
-      "scrollTop": 0,
-      "startId": "20251226095355-8a43uar",
+      "scrollTop": 267,
+      "startId": "20251228223745-mzffj7g",
       "zoomInId": "20251228180722-4f1en31"
     },
     "20251226105356-9fv5bbo": {
-      "endId": "20251228183942-wdrano3",
-      "focusEnd": 139,
-      "focusId": "20251228183752-dhpju4i",
-      "focusStart": 139,
+      "endId": "20251228223745-04wphvz",
       "rootId": "20251226105356-9fv5bbo",
-      "scrollTop": 0,
-      "startId": "20251226095356-u5bj7ev"
+      "scrollTop": 1152,
+      "startId": "20251228223745-mtgcq0o"
     },
     "20251226105357-kgytlcg": {
       "endId": "20251228191850-otzvcvd",
@@ -107,17 +113,14 @@
       "focusId": "20251228191850-otzvcvd",
       "focusStart": 0,
       "rootId": "20251226105357-kgytlcg",
-      "scrollTop": 0,
+      "scrollTop": 1248,
       "startId": "20251226105520-9t1zenk"
     },
     "20251226105547-j68dj17": {
-      "endId": "20251228200722-iw9asjn",
-      "focusEnd": 92,
-      "focusId": "20251228200856-pc0haco",
-      "focusStart": 92,
+      "endId": "20251228223745-sdh3njy",
       "rootId": "20251226105547-j68dj17",
       "scrollTop": 1172,
-      "startId": "20251226095547-9irf64a"
+      "startId": "20251228223745-ihlee6e"
     },
     "20251226122127-haaystb": {
       "endId": "20251226112127-q2ifth7",

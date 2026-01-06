@@ -123,7 +123,8 @@
     "useSingleLineSave": true,
     "largeFileWarningSize": 8,
     "createDocAtTop": false,
-    "sort": 6
+    "sort": 6,
+    "recentDocsMaxListCount": 32
   },
   "tag": {
     "sort": 4
@@ -291,22 +292,52 @@
                 {
                   "children": [
                     {
-                      "activeTime": "1766960072687",
+                      "activeTime": "1767698689452",
                       "children": {
-                        "action": "cb-get-all",
-                        "blockId": "20251228180722-4f1en31",
+                        "action": "cb-get-scroll",
+                        "blockId": "20251226104415-hctjpqu",
                         "instance": "Editor",
                         "mode": "wysiwyg",
                         "notebookId": "20251226093425-ajb9zoz",
-                        "rootId": "20251226105355-toe46ke"
+                        "rootId": "20251226104415-hctjpqu"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "Tema 8: Símplez. Modelo estructural"
+                      "title": "Tema 05: Circuitos aritmético-lógicos"
                     },
                     {
-                      "activeTime": "1766960088200",
+                      "activeTime": "1767698797812",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20251226104433-u4rbjs1",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20251226093425-ajb9zoz",
+                        "rootId": "20251226104433-u4rbjs1"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Tema 06: Diseño de circuitos secuenciales"
+                    },
+                    {
+                      "activeTime": "1767698812409",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20251226104439-dsj6w6g",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20251226093425-ajb9zoz",
+                        "rootId": "20251226104439-dsj6w6g"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Tema 07: Circuitos secuenciales básicos"
+                    },
+                    {
+                      "activeTime": "1767698838077",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20251226105356-9fv5bbo",
@@ -318,10 +349,10 @@
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "Tema 9: Símplez. Modelo funcional"
+                      "title": "Tema 09: Símplez. Modelo funcional"
                     },
                     {
-                      "activeTime": "1766960093228",
+                      "activeTime": "1767698839373",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20251226105357-kgytlcg",
@@ -336,7 +367,8 @@
                       "title": "Tema 10: Símplez. Modelo estructural extendido"
                     },
                     {
-                      "activeTime": "1766960354243",
+                      "active": true,
+                      "activeTime": "1767698845834",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20251226105547-j68dj17",
@@ -349,67 +381,6 @@
                       "instance": "Tab",
                       "pin": false,
                       "title": "Tema 11: Símplez. Modelo Procesal"
-                    },
-                    {
-                      "activeTime": "1766960356240",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20251226103426-kuaea3e",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20251226093425-ajb9zoz",
-                        "rootId": "20251226103426-kuaea3e"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "Tema 01: Represencatión de la información"
-                    },
-                    {
-                      "activeTime": "1766960363358",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20251226104247-7kunn8f",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20251226093425-ajb9zoz",
-                        "rootId": "20251226104247-7kunn8f"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "Tema 02: Álgebra booleana y puertas lógicas"
-                    },
-                    {
-                      "activeTime": "1766960369906",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20251226104316-6aobzkp",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20251226093425-ajb9zoz",
-                        "rootId": "20251226104316-6aobzkp"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "Tema 03: Diseño de circuitos combinacionales"
-                    },
-                    {
-                      "active": true,
-                      "activeTime": "1766961460357",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20251226104415-hctjpqu",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20251226093425-ajb9zoz",
-                        "rootId": "20251226104415-hctjpqu"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "Tema 5: Circuitos aritmético-lógicos"
                     }
                   ],
                   "height": "",
@@ -600,7 +571,7 @@
   "system": {
     "id": "b27a70a3c28545239b4343697f4873e1",
     "name": "daniela-desktop",
-    "kernelVersion": "3.5.1",
+    "kernelVersion": "3.5.2",
     "os": "linux",
     "osPlatform": "alpine",
     "container": "docker",
@@ -1377,7 +1348,7 @@
       "apiTemperature": 1,
       "apiMaxContexts": 7,
       "apiBaseURL": "http://192.168.1.4:11434/v1",
-      "apiUserAgent": "SiYuan/3.5.1 docker/linux",
+      "apiUserAgent": "SiYuan/3.5.2 docker/linux",
       "apiProvider": "OpenAI",
       "apiVersion": ""
     }
@@ -1389,11 +1360,11 @@
   "stat": {
     "treeCount": 11,
     "cTreeCount": 100,
-    "blockCount": 946,
+    "blockCount": 2329,
     "cBlockCount": 5000,
-    "dataSize": 5466062,
+    "dataSize": 9727558,
     "cDataSize": 104857600,
-    "assetsSize": 1891463,
+    "assetsSize": 6137436,
     "cAssetsSize": 104857600
   },
   "api": {
@@ -1420,5 +1391,6 @@
     "enabledCSS": false,
     "enabledJS": false
   },
-  "dataIndexState": 0
+  "dataIndexState": 0,
+  "cookieKey": "ugqkzkcq9spxhbpr"
 }
